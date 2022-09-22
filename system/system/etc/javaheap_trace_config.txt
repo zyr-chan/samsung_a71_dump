@@ -1,0 +1,19 @@
+buffers: {
+    size_kb: 522240
+    fill_policy: DISCARD
+}
+buffers: {
+    size_kb: 2048
+    fill_policy: DISCARD
+}
+data_sources: {
+    config {
+        name: "android.java_hprof"
+        target_buffer: 0
+        java_hprof_config {
+            process_cmdline: "system_server"
+        }
+    }
+}
+duration_ms: 1000
+

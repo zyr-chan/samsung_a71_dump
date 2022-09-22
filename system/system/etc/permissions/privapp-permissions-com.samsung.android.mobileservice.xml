@@ -1,0 +1,16 @@
+<permissions>
+    <privapp-permissions package="com.samsung.android.mobileservice">
+        <permission name="android.permission.REAL_GET_TASKS"/>
+        <permission name="android.permission.ACCESS_MEDIA_LOCATION"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.START_ACTIVITIES_FROM_BACKGROUND"/>
+        <permission name="com.sec.android.diagmonagent.permission.DIAGMON"/>
+        <permission name="com.sec.android.diagmonagent.permission.PROVIDER"/>
+        <permission name="com.samsung.android.provider.indexing.permission.ACCESS_PROVIDER"/>
+        <permission name="com.samsung.android.permission.SEM_MEDIA_CONTENTS"/>
+        <permission name="com.samsung.android.providers.media.READ"/>
+        <permission name="com.samsung.android.providers.media.WRITE"/>
+        <permission name="com.samsung.android.providers.media.CMH"/>
+        <permission name="android.permission.GET_ACCOUNTS_PRIVILEGED"/>
+    </privapp-permissions>
+</permissions>
