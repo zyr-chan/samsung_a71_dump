@@ -1,0 +1,2 @@
+require version-trustzone=TZ.XF.5.0.3-373580-2
+require version-vendor=1649164621

@@ -1,0 +1,18 @@
+## a71naxx-user 12 SP1A.210812.016 A715FXXU8CVD1 release-keys
+- Manufacturer: samsung
+- Platform: sm6150
+- Codename: a71
+- Brand: samsung
+- Flavor: a71naxx-user
+- Release Version: 12
+- Id: SP1A.210812.016
+- Incremental: A715FXXU8CVD1
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: samsung/a71naxx/a71:11/RP1A.200720.012/A715FXXU8CVD1:user/release-keys
+- OTA version: 
+- Branch: a71naxx-user-12-SP1A.210812.016-A715FXXU8CVD1-release-keys
+- Repo: samsung_a71_dump
